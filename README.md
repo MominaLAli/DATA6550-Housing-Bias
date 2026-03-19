@@ -92,24 +92,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 jupyter notebook Code/Ali/Group2_Module4.ipynb
 ```
 
----
-
-## Team
-
-| Name | Folder |
-|------|--------|
-| Momina Ali | `Code/Ali/` |
-| [Teammate] | `Code/Hallikeri/` |
-| [Teammate] | `Code/Yadlapalli/` |
-| [Teammate] | `Code/[Lastname4]/` |
-
----
-
-## Instructor Access
-
-- **Instructor collaborator:** jfwallin
-- **Google Doc (live report):** [add link]
-- **D2L submission:** Group Dropbox — Module 4
 
 ---
 
